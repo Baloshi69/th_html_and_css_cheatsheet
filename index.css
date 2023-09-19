@@ -1,0 +1,48 @@
+
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: #f1f1f1;
+    border: solid 3px #f51ef9;
+    margin-bottom: 25px;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+th {
+    width: 100%;
+    background-color: #da7ced;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+td {
+    border: 2px solid #b5a1a1; 
+}
+
+.tag {
+    text-align: center;
+     width: 20%;
+}
+
+.code {
+    background-color: #fbd499;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 400;
+
+}
+
+.name {
+    text-align: center;
+    width: 20%;
+}
+    
+
+.description {
+    text-align: center;
+    width: 60%;
+}
